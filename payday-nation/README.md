@@ -1,13 +1,13 @@
 Payday Nation
 ===
 
-# About
+### About
 
 Data from the [Payday Nation](http://projects.aljazeera.com/2014/payday-nation/index.html) project, published June 17, 2014. The data was, in part, obtained via a Freedom of Information request to the Federal Trade Commission by Julia Harte, Joanna Zuckerman Bernstein & Nick Nehamas and was combined with subsequent reporting to link payday lending companies to their associated tribe. Geocoding was performed using [Texas A&M GeoServices](http://geoservices.tamu.edu/). OCR was performed by [ABBYY FineReader Express](http://abbyy.com).
 
 The stories and graphics for [Payday Nation](http://projects.aljazeera.com/2014/payday-nation/index.html) were reported and produced in collaboration with the Stabile Center for Investigative Journalism at Columbia University in New York.
 
-# Contact
+### Contact
 
 If you have questions about this data email us at [ajammultimedia@gmail.com](mailto:ajammultimedia@gmail.com?subject=Payday%20Nation%20data).
 
