@@ -7,6 +7,10 @@ Data from the [Payday Nation](http://projects.aljazeera.com/2014/payday-nation/i
 
 The stories and graphics for [Payday Nation](http://projects.aljazeera.com/2014/payday-nation/index.html) were reported and produced in collaboration with the Stabile Center for Investigative Journalism at Columbia University in New York.
 
+# Contact
+
+If you have questions about this data email us at [ajammultimedia@gmail.com](mailto:ajammultimedia@gmail.com?subject=Payday%20Nation%20data).
+
 # What's here? 
 
 This repo contains two groups of data: 
@@ -148,4 +152,4 @@ Companies in `pdl-complaints.csv`:
 * United Cash Loans
 * US Fast Cash
 * West River
-* Western Sky Financial* 
+* Western Sky Financial
