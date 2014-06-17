@@ -23,6 +23,7 @@ This data powers the interactive [on this page](http://projects.aljazeera.com/20
 
 1. Detailed complaints against ten payday lending companies including the text of the consumer's complaint: `detailed-complaint-texts.csv` and associated PDF and RTF files.
 2. Less detailed but more comprehensive data showing the city and state of complaints against a much larger group of payday lenders: `pdl-complaints.csv`.
+3. Topojson files of US states. `us-states.json` has land and state areas. `us.json` has counties as well.
 
 Both datasets cover complaints issued between February 2013 and February 2014.
 
