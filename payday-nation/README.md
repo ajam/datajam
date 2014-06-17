@@ -11,6 +11,8 @@ The stories and graphics for [Payday Nation](http://projects.aljazeera.com/2014/
 
 If you have questions about this data email us at [ajammultimedia@gmail.com](mailto:ajammultimedia@gmail.com?subject=Payday%20Nation%20data).
 
+### These complaints have not been investigated by the FTC nor have they been independently verified.
+
 # What's here? 
 
 This data powers the interactive [on this page](http://projects.aljazeera.com/2014/payday-nation/complaints.html). This repo contains two groups of data: 
